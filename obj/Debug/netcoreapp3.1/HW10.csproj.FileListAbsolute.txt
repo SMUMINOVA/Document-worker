@@ -1,0 +1,13 @@
+/home/sobira/Рабочий стол/c#/HW10/bin/Debug/netcoreapp3.1/HW10
+/home/sobira/Рабочий стол/c#/HW10/bin/Debug/netcoreapp3.1/HW10.deps.json
+/home/sobira/Рабочий стол/c#/HW10/bin/Debug/netcoreapp3.1/HW10.runtimeconfig.json
+/home/sobira/Рабочий стол/c#/HW10/bin/Debug/netcoreapp3.1/HW10.runtimeconfig.dev.json
+/home/sobira/Рабочий стол/c#/HW10/bin/Debug/netcoreapp3.1/HW10.dll
+/home/sobira/Рабочий стол/c#/HW10/bin/Debug/netcoreapp3.1/HW10.pdb
+/home/sobira/Рабочий стол/c#/HW10/obj/Debug/netcoreapp3.1/HW10.csprojAssemblyReference.cache
+/home/sobira/Рабочий стол/c#/HW10/obj/Debug/netcoreapp3.1/HW10.csproj.CoreCompileInputs.cache
+/home/sobira/Рабочий стол/c#/HW10/obj/Debug/netcoreapp3.1/HW10.AssemblyInfoInputs.cache
+/home/sobira/Рабочий стол/c#/HW10/obj/Debug/netcoreapp3.1/HW10.AssemblyInfo.cs
+/home/sobira/Рабочий стол/c#/HW10/obj/Debug/netcoreapp3.1/HW10.dll
+/home/sobira/Рабочий стол/c#/HW10/obj/Debug/netcoreapp3.1/HW10.pdb
+/home/sobira/Рабочий стол/c#/HW10/obj/Debug/netcoreapp3.1/HW10.genruntimeconfig.cache
