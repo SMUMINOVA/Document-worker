@@ -27,6 +27,12 @@ namespace HW10
                 System.Console.WriteLine("The document is saved in the old format, saving in other formats is available in the expert version");
             }
         }
+        
+        class ExpertDocumentWorker : ProDocumentWorker{
+            public sealed override void SaveDocument(){
+                System.Console.WriteLine("The document is saved in the new format");
+            }
+        }
     }
     
 }
